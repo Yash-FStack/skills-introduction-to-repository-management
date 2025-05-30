@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Yash-FStack
+/src/backend/database.py      @Yash-FStack
+/src/backend/routers/auth.py  @Yash-FStack
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Yash-FStack
